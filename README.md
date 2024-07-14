@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="./assets/cover.jpeg"
-    width="25%"
+    width="75%"
 />
 </p>
 
