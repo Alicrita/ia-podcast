@@ -68,4 +68,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+by [Alison C. Rita](https://github.com/Alicrita) for Prof [Felipe Aguiar](https://github.com/felipeAguiarCode) course.
